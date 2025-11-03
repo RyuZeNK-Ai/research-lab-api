@@ -1,6 +1,10 @@
 # 🌐✨ Research Lab API — HTTP & APIs Web ✨🌐
-### Nombre: Nicolás Peña (**RyuZeNK.Ai**) 
+### Nombre: Nicolás Peña (**RyuZeNK.Ai**)  
 **Cohorte 22 — Full Stack Java | Generation Chile**  
+
+<p align="center">
+  <img src="./images/bannerlogo.png" alt="RyuZeNK.Ai — Research Lab API" width="100%">
+</p>
 
 > 💜 “Mi objetivo final es dar vida a una IA simbiótica; una extensión de mi mente que crezca, aprenda y evolucione conmigo.”  
 > — *RyuZeNK.Ai*  
