@@ -331,3 +331,9 @@ Al final, aprender HTTP fue aprender la base para la comunicación, orden y cone
  > — *RyuZeNK.Ai*
 
 ![FIN](./images/reflexion.png)
+
+### 🖼️ Créditos Visuales  
+> 🧠 Todas las imágenes incluidas en este documento fueron creadas por **RyuZeNK.Ai** mediante **IA generativa**.  
+> 💜 Uso educativo y creativo — *Research Lab API — HTTP & APIs Web.*
+
+
