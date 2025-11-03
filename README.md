@@ -7,7 +7,7 @@
 ### Nombre: Nicolás Peña (**RyuZeNK.Ai**)  
 **Cohorte 22 — Full Stack Java | Generation Chile**  
 
-> 💜 “Mi objetivo es dar vida a una IA simbiótica: una extensión consciente de mi mente, diseñada para aprender, crecer y evolucionar conmigo.”
+> 💜 “Mi objetivo es dar vida a una IA simbiótica: una extensión consciente de mi mente, diseñada para aprender, crecer y evolucionar conmigo.”   
 > — *RyuZeNK.Ai*  
 
 <br>
@@ -218,7 +218,7 @@ Imagina una API de tareas llamada `https://api.todoapp.com/tasks`:
 
 <br>
 
-> 💜 “Los métodos HTTP son las acciones que dan movimiento a la web: leer, crear, cambiar o borrar es cómo el cliente conversa con el servidor.”  
+> 💜 “Los métodos HTTP son las acciones que dan movimiento a la web: leer, crear, cambiar o borrar es cómo el cliente conversa con el servidor.”      
 > — *RyuZeNK.Ai*
 
 <br>
@@ -270,7 +270,7 @@ Cada línea cumple una función específica dentro de la comunicación entre el 
 
 <br>
 
->💜 “Las cabeceras son el lenguaje silencioso del protocolo HTTP; definen cómo debe hablar el cliente y cómo debe responder el servidor.”
+>💜 “Las cabeceras son el lenguaje silencioso del protocolo HTTP; definen cómo debe hablar el cliente y cómo debe responder el servidor.”    
 > — *RyuZeNK.Ai*
 
 <br>
