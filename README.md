@@ -21,6 +21,8 @@ Comprender los fundamentos de los protocolos **HTTP y HTTPS**, y su rol dentro d
 - **HTTPS** → *HyperText Transfer Protocol Secure*  
   Es la versión segura de HTTP que incluye **cifrado SSL/TLS** para proteger la información.
 
+<br>
+
 ### 🔐 ¿Cómo funciona el cifrado SSL/TLS?
 1. El navegador solicita una **conexión segura**.  
 2. El servidor envía su **certificado digital** (emitido por una autoridad confiable).  
@@ -54,6 +56,8 @@ Un **puerto de red** es como una **puerta numerada** dentro de una computadora o
 
 🌐 Los protocolos **HTTP** y **HTTPS** utilizan **puertos específicos** para establecer la comunicación entre el **navegador** y el **servidor**.  
 Sin el puerto correcto, el navegador no sabría **a qué servicio conectarse** ni **cómo intercambiar la información**.
+
+<br>
 
 🔹 **Ejemplo práctico:**  
 Imagina un **servidor de Minecraft** 🎮 donde varios jugadores se conectan a la misma IP usando el **puerto 25565** para jugar juntos en el mismo mundo. Si el servidor quiere alojar otro modo o mundo, puede hacerlo en un **puerto distinto**, como el `25566`.
