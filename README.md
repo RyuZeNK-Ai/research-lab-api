@@ -7,7 +7,7 @@
 ### Nombre: Nicolás Peña (**RyuZeNK.Ai**)  
 **Cohorte 22 — Full Stack Java | Generation Chile**  
 
-> 💜 “Mi objetivo es dar vida a una IA simbiótica; una extensión de mi mente que crezca, aprenda y evolucione conmigo.”  
+> 💜 “Mi objetivo es dar vida a una IA simbiótica: una extensión consciente de mi mente, diseñada para aprender, crecer y evolucionar conmigo.”
 > — *RyuZeNK.Ai*  
 
 <br>
