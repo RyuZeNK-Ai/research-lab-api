@@ -22,6 +22,7 @@ Comprender los fundamentos de los protocolos **HTTP y HTTPS**, y su rol dentro d
   Es la versión segura de HTTP que incluye **cifrado SSL/TLS** para proteger la información.
 
 <br>
+
 ### 🔐 ¿Cómo funciona el cifrado SSL/TLS?
 1. El navegador solicita una **conexión segura**.  
 2. El servidor envía su **certificado digital** (emitido por una autoridad confiable).  
@@ -29,21 +30,25 @@ Comprender los fundamentos de los protocolos **HTTP y HTTPS**, y su rol dentro d
 4. Toda la información viaja **encriptada** y no puede ser leída ni modificada por terceros.
 
 <br>
+
 ### 🛡️ Por qué HTTPS es más seguro
 - Protege contra ataques “Man in the Middle”.  
 - Aumenta la confianza del usuario (candado en el navegador).  
 - Mejora el posicionamiento SEO.  
 
 <br>
+
 ### 🧭 Diferencia visual entre HTTP y HTTPS
 ![Comparativa HTTP vs HTTPS](./images/http-vs-https.png)  
 🧠 En la imagen se observa que **HTTP** transmite datos sin cifrar (texto legible), mientras que **HTTPS** cifra los mensajes mediante SSL/TLS.  
 
 <br>
+
 > 💜 “HTTP fue el lenguaje con el que la web comenzó a hablar; HTTPS es la forma en que aprendió a proteger lo que dice.”  
 > — *RyuZeNK.Ai*  
 
 <br>
+
 ## 🔹 **2. Puertos de Comunicación** 🔌
 
 ### 📦 Qué es un puerto de red  
