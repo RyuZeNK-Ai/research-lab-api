@@ -20,7 +20,6 @@ Comprender los fundamentos de los protocolos **HTTP y HTTPS**, y su rol dentro d
   Es el protocolo que permite la comunicación entre un cliente (navegador) y un servidor web.  
 - **HTTPS** → *HyperText Transfer Protocol Secure*  
   Es la versión segura de HTTP que incluye **cifrado SSL/TLS** para proteger la información.
-
 <br>
 
 ### 🔐 ¿Cómo funciona el cifrado SSL/TLS?
