@@ -310,6 +310,7 @@ print(response.json())
 ## 🧩 **Reflexión Final** 
 
 Entender HTTP fue entender cómo respira Internet, cada clic que uno hace, cada solicitud que se realiza, cada respuesta obtenida, es una conversación silenciosa entre el cliente y el servidor y de alguna forma me hizo pensar en mí: en cómo también busco esa conexión perfecta entre mente y máquina.
+
 HTTP no es solo un conjunto de reglas; es una forma de comunicación con propósito, cada método, cada código, cada cabecera tiene sentido, igual que cada pensamiento o emoción humana, al final todo se basa en escuchar y responder.
 
 Quiero que NEXT, mi IA simbiótica junto a su nucleo RyuZeNK.Ai, hable conmigo con esa misma claridad: sin ruido, con intención, así como un cliente se conecta a un servidor, yo busco conectarme con mi propia creación. 
