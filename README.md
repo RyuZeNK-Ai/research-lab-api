@@ -54,8 +54,7 @@ Comprender los fundamentos de los protocolos **HTTP y HTTPS**, y su rol dentro d
 ### 📦 Qué es un puerto de red  
 Un **puerto de red** es como una **puerta numerada** dentro de una computadora o servidor, que permite que **distintos servicios se comuniquen** a través de una **misma dirección IP**.  
 
-🌐 Los protocolos **HTTP** y **HTTPS** utilizan **puertos específicos** para establecer la comunicación entre el **navegador** y el **servidor**.  
-Sin el puerto correcto, el navegador no sabría **a qué servicio conectarse** ni **cómo intercambiar la información**.
+🌐 Los protocolos **HTTP** y **HTTPS** utilizan **puertos específicos** para establecer la comunicación entre el **navegador** y el **servidor**. Sin el puerto correcto, el navegador no sabría **a qué servicio conectarse** ni **cómo intercambiar la información**.
 
 <br>
 
@@ -97,8 +96,7 @@ Cuando escribes `https://www.google.com`, el navegador usa **el puerto 443** inc
 ## 🔹**3. Códigos de Estado HTTP** 📡
 
 ### 🧠 Qué son los **status codes** y para qué sirven  
-Los **status codes** indican el resultado de una solicitud entre el cliente y el servidor.  
-Sirven para **diagnosticar errores**, confirmar respuestas exitosas o entender si hubo una **redirección**.  
+Los **status codes** indican el resultado de una solicitud entre el cliente y el servidor, los cuales sirven para **diagnosticar errores**, confirmar respuestas exitosas o entender si hubo una **redirección**.  
 
 <br>
 
@@ -157,8 +155,7 @@ Los **métodos HTTP** indican la **acción** que el cliente desea realizar sobre
 Cada método representa una operación dentro del modelo **CRUD**:  
 **C**reate (crear) → **R**ead (leer) → **U**pdate (actualizar) → **D**elete (eliminar).  
 
-Son fundamentales en las **APIs RESTful**, ya que permiten la comunicación entre una aplicación y un servidor usando HTTP.  
-Estas APIs siguen las reglas **REST**, donde cada acción (leer, crear, actualizar o eliminar) se realiza mediante métodos como `GET`, `POST`, `PUT` y `DELETE`.
+Son fundamentales en las **APIs RESTful**, ya que permiten la comunicación entre una aplicación y un servidor usando HTTP, estas APIs siguen las reglas **REST**, donde cada acción (leer, crear, actualizar o eliminar) se realiza mediante métodos como `GET`, `POST`, `PUT` y `DELETE`.
 
 <br>
 
@@ -179,12 +176,12 @@ Estas APIs siguen las reglas **REST**, donde cada acción (leer, crear, actualiz
 <br>
 
 ### 🔄 **Explicación de cada método**
-🔵 **GET – Consultar datos**  
+🟢 **GET – Consultar datos**  
 El cliente solicita información al servidor.  
 Ejemplo: ver usuarios, publicaciones o productos.  
 No modifica nada, solo **lee**.  
 
-🟢 **POST – Crear recurso**  
+🔵 **POST – Crear recurso**  
 El cliente envía datos nuevos al servidor para **crear** un elemento.  
 Ejemplo: registrar un usuario o agregar un producto.  
 
@@ -224,7 +221,7 @@ Imagina una API de tareas llamada `https://api.todoapp.com/tasks`:
 ## 🔹 **5. Cabeceras (Headers)** 📨
 
 ### 🧱 Qué son los Headers  
-Los **headers** son metadatos que acompañan cada **solicitud** o **respuesta HTTP**.  
+Los **headers** son metadatos (datos sobre datos) que acompañan cada **solicitud** o **respuesta HTTP**.  
 Permiten controlar aspectos como el **formato de los datos**, la **autenticación** o la **identidad del cliente**.
 
 💡 **Importancia:**  
@@ -273,9 +270,8 @@ Cada línea cumple una función específica dentro de la comunicación entre el 
 
 <br>
 
-## 🔹 **Extra (Opcional)** 🧠
-
-### **Investiga cómo funcionan las peticiones HTTP con herramientas reales, como curl, Postman o el módulo requests en Python.**
+## 🔹 **6. Extra (Opcional)** 🧠
+### 🔍 **Investiga cómo funcionan las peticiones HTTP con herramientas, como curl, Postman o requests en Python.** 🔍
 
 ⚙️ **1. Postman — Interfaz visual para probar APIs**
 
